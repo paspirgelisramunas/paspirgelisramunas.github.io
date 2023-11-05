@@ -1,2 +1,2 @@
 # paspirgelisramunas.github.io
-my startup
+https://paspirgelisramunas.github.io/
